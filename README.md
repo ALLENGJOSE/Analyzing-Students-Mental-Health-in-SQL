@@ -23,3 +23,9 @@ ROUND(AVG(todep) , 2) ,
 ORDER BY
 ```
 ### RESULT
+
+As the question here states to focus on 3 aspects for international students with regards to their stay :
+1.Total score of depression (PHQ-9 test) 
+2.Total score of social connectedness (SCS test)
+3.Total score of acculturative stress (ASISS test) 
+The conclusion here through the query is that with longer stay depression increases and social connectedness and acculurativee stress also tend to remain high.
